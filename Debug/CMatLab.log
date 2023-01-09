@@ -1,0 +1,114 @@
+﻿开始生成时的环境:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\86136\AppData\Roaming
+ChocolateyInstall = C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate = 133017366929671904
+CommonProgramFiles = C:\Program Files\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = 16MON
+ComSpec = C:\Windows\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+DXSDK_DIR = C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\
+ForceIdentityAuthenticationType = Embedded
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\86136
+JAVA_HOME = C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+LOCALAPPDATA = C:\Users\86136\AppData\Local
+LOGONSERVER = \\16MON
+MONO_ANDROID_PATH = d:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Xamarin\Android
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 16
+OneDrive = C:\Users\86136\OneDrive
+OneDriveConsumer = C:\Users\86136\OneDrive
+OS = Windows_NT
+Path = D:\Python311\Scripts\;D:\Python311\;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Program Files\dotnet\;d:\Program Files (x86)\IncrediBuild;d:\Program Files\MATLAB\R2021b\runtime\win64;d:\Program Files\MATLAB\R2021b\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\CMake\bin;C:\Users\86136\AppData\Local\Microsoft\WindowsApps;d:\Programs\Microsoft VS Code\bin;C:\Users\86136\AppData\Roaming\npm;C:\Users\86136\.dotnet\tools;D:\Program Files\Spyder\pkgs;
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+PkgDefApplicationConfigFile = C:\Users\86136\AppData\Local\Microsoft\VisualStudio\17.0_7715f43f\devenv.exe.config
+PROCESSOR_ARCHITECTURE = AMD64
+PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+PROCESSOR_LEVEL = 25
+PROCESSOR_REVISION = 4401
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSExecutionPolicyPreference = RemoteSigned
+PSModulePath = C:\Users\86136\OneDrive\文档\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+QtMsBuild = C:\Users\86136\AppData\Local\QtMsBuild
+ServiceHubLogSessionKey = 8FBB504A
+SESSIONNAME = Console
+SignInWithHomeTenantOnly = False
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\86136\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\86136\AppData\Local\Temp
+USERDOMAIN = 16MON
+USERDOMAIN_ROAMINGPROFILE = 16MON
+USERNAME = 8613671056130
+USERPROFILE = C:\Users\86136
+VisualStudioDir = C:\Users\86136\OneDrive\文档\Visual Studio 2022
+VisualStudioEdition = Microsoft Visual Studio Community 2022
+VisualStudioVersion = 17.0
+VS140COMNTOOLS = D:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VSAPPIDDIR = d:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 2052
+VSLS_SESSION_KEEPALIVE_INTERVAL = 0
+VSSKUEDITION = Community
+windir = C:\Windows
+XAMARIN_ANDROID_REGKEY = SOFTWARE\Xamarin\VisualStudio\17.0_7715f43f\Android
+_PTVS_PID = 14264
+
+  fnder2.c
+  matrix.c
+D:\exam\and\CMatLab\matrix.c(7,12): warning C4101: “j”: 未引用的局部变量
+D:\exam\and\CMatLab\matrix.c(7,9): warning C4101: “i”: 未引用的局部变量
+D:\exam\and\CMatLab\matrix.c(62,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(100,22): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\exam\and\CMatLab\matrix.c(100,22): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\exam\and\CMatLab\matrix.c(100,22): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\exam\and\CMatLab\matrix.c(100,22): message : 此参数用作缓冲区大小
+D:\exam\and\CMatLab\matrix.c(103,26): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\exam\and\CMatLab\matrix.c(103,26): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\exam\and\CMatLab\matrix.c(103,26): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\exam\and\CMatLab\matrix.c(103,26): message : 此参数用作缓冲区大小
+D:\exam\and\CMatLab\matrix.c(178,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(178,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(207,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(213,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(383,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(384,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(384,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(518,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(519,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(519,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(621,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(622,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(622,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(622,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(776,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(844,33): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(844,33): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(881,42): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(910,42): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(939,42): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(1176,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(1311,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(1328,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(1380,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\exam\and\CMatLab\matrix.c(1600,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+D:\exam\and\CMatLab\matrix.c(1638,32): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Matrix *”
+  multal.c
+  addknot.c
+D:\exam\and\CMatLab\addknot.c(314,17): warning C4090: “=”: 不同的“const”限定符
+  正在生成代码...
+D:\exam\and\CMatLab\matrix.c(109): warning C4716: “help”: 必须返回一个值
+D:\exam\and\CMatLab\matrix.c(95): error C4700: 使用了未初始化的局部变量“fp”
+D:\exam\and\CMatLab\matrix.c(1519): error C4703: 使用了可能未初始化的本地指针变量“Q”
+D:\exam\and\CMatLab\fnder2.c(126): error C4703: 使用了可能未初始化的本地指针变量“ncoef”
+D:\exam\and\CMatLab\fnder2.c(153): error C4703: 使用了可能未初始化的本地指针变量“P”
